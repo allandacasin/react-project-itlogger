@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.2.2",
+    "config": "^3.3.8",
     "config-validator": "^0.1.1",
     "express": "^4.17.1",
     "express-validator": "^6.1.1",
